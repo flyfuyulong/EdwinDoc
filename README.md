@@ -1,2 +1,0 @@
-# EdwinDoc
-Edwin's Doc
