@@ -12,7 +12,6 @@ Edwin的文档库
 
    文档库搭建/index
    关于
-   Sphinx
 
 
 Indices and tables

@@ -9,5 +9,7 @@
 .. toctree::
    :maxdepth: 2
 
-   Sphinx/关于
+   Sphinx/Sphinx
+   ReadTheDocs/ReadTheDocs
+   reStructuredText/reStructuredText
 
